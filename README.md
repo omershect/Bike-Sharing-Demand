@@ -25,6 +25,11 @@ Main stages :
 ### What did you realize when you tried to submit your predictions? What changes were needed to the output of the predictor to submit your results?
 There is a need to verify that the output data doesn't contain negative values.
 ### What was the top ranked model that performed?
+
+
+![image](https://user-images.githubusercontent.com/7562160/145545579-4cad23d3-5ef5-413c-9a61-0ab1d5e10ead.png)
+
+
  
 Top Score test was ~43   Top Val score was ~118
 Kaggle submission  : 1.38952
