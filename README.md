@@ -66,7 +66,8 @@ Various models were trained:
 
 Here are the results:
 
-![image](https://user-images.githubusercontent.com/7562160/145546475-d229d6c5-221f-424b-ae07-00df6aa23d72.png)
+![image](https://user-images.githubusercontent.com/7562160/145549382-20fdf704-ff65-4ba2-97df-2e01536c1134.png)
+
 
  
 
