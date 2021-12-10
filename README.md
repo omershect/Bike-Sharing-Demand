@@ -35,3 +35,25 @@ Top Score test was ~43   Top Val score was ~118
 Kaggle submission  : 1.38952
 
 
+## Exploratory data analysis and feature creation
+###  What did the exploratory analysis find and how did you add additional features?
+
+
+
+#### Histogram of the basic Features
+![image](https://user-images.githubusercontent.com/7562160/145545804-dcf6dc1d-b714-4ef3-9782-85ca1e2c24cb.png)
+
+
+#### Boxplot of all Features 
+
+![image](https://user-images.githubusercontent.com/7562160/145545849-ebe92fc2-427c-47a7-ac27-3b7d21b4b41a.png)
+
+#### Line plot of Bike Demands  
+
+![image](https://user-images.githubusercontent.com/7562160/145545891-6164c674-b624-49cc-9a41-5ba85c092cc8.png)
+
+Note:  Partial plot – full graph is in the notebook 
+
+
+
+
