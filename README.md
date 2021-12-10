@@ -9,21 +9,21 @@
 ## General 
 This Readme file is the report of my work on the Predicted Bike Sharing Demand. 
 Main stages :
-•	Connect to Kaggkle and load the data 
-•	Initial review of the data 
-•	Build a simple model 
-•	Submit to Kaggle 
-•	Perform an exploratory data 
-•	Add Features 
-•	Add More Features 
-•	Review feature importance - remove features 
-•	Hyper Tune parameters 
-•	Write the report 
+1. Connect to Kaggkle and load the data 
+2. Initial review of the data 
+3. Build a simple model 
+4. Submit to Kaggle 
+5. Perform an exploratory data 
+6. Add Features 
+7. 	Add More Features 
+8. Review feature importance - remove features 
+9. Hyper Tune parameters 
+10. Write the report 
 
 
 ## Initial Training
-What did you realize when you tried to submit your predictions? What changes were needed to the output of the predictor to submit your results?
-There is a need to verify that the output data doesn't contain negative values  
+### What did you realize when you tried to submit your predictions? What changes were needed to the output of the predictor to submit your results?
+There is a need to verify that the output data doesn't contain negative values.
 ### What was the top ranked model that performed?
  
 Top Score test was ~43   Top Val score was ~118
