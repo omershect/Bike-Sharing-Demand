@@ -1,8 +1,9 @@
 # Bike-Sharing-Demand
-Kaggle competition  - Bike Sharing Demand
+### Kaggle competition  - Bike Sharing Demand
 
 ![image](https://user-images.githubusercontent.com/7562160/145544439-cb1b5760-32bc-499b-89c8-c85751ad8910.png)
-Report: Predict Bike Sharing Demand with AutoGluon Solution
+
+## Report: Predict Bike Sharing Demand with AutoGluon Solution
 ### Name: Omer Shechter
 
 ## General 
