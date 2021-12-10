@@ -54,6 +54,22 @@ Kaggle submission  : 1.38952
 
 Note:  Partial plot – full graph is in the notebook 
 
+## How much better did your model preform after adding additional features and why do you think that is?
+Various models were trained:   
+1.	Basic Features (like Weekday, Month and etc. as categorical)
+2.	Log transformation 
+3.	Use of Count data (see diagram) to create time-based features 
+4.	Use only high importance features 
+
+
+![image](https://user-images.githubusercontent.com/7562160/145546386-7d9193ed-5d92-4b93-8d3d-caa94fbd990d.png)
+
+Here are the results:
+
+![image](https://user-images.githubusercontent.com/7562160/145546475-d229d6c5-221f-424b-ae07-00df6aa23d72.png)
+
+ 
+
 
 
 
