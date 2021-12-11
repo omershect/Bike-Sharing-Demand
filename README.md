@@ -71,10 +71,13 @@ Here are the results:
 ## Hyper parameter tuning
 
 Hyperparameters tunning included
-•	Increasing the time
-•	Changing the evaluation matric (customize to RMSLE)
-•	Changing baggin paramters
-•	Trying search parameters 
+1.	Increasing the time
+2.	Changing the evaluation matric (customize to RMSLE)
+3.	Changing baggin paramters
+4.	Trying search parameters 
+Some results examples 
+
+![image](https://user-images.githubusercontent.com/7562160/145673056-4d54f6b8-dc9b-44c8-a97c-e20d2988dde2.png)
 
 ### How much better did your model preform after trying different hyper parameters?
 Kaggle's score was improved from 0.45194  to 0.44793  mainly due to the increase of the time training. All other parameters tunning was a bit less or no improvement. I suspect that the tunning of the parameter was overfitting to the train.   
