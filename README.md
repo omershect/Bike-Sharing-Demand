@@ -68,6 +68,22 @@ Here are the results:
 
 ![image](https://user-images.githubusercontent.com/7562160/145549382-20fdf704-ff65-4ba2-97df-2e01536c1134.png)
 
+## Hyper parameter tuning
+
+Hyperparameters tunning included
+•	Increasing the time
+•	Changing the evaluation matric (customize to RMSLE)
+•	Changing baggin paramters
+•	Trying search parameters 
+
+### How much better did your model preform after trying different hyper parameters?
+Kaggle's score was improved from 0.45194  to 0.44793  mainly due to the increase of the time training. All other parameters tunning was a bit less or no improvement. I suspect that the tunning of the parameter was overfitting to the train.   
+### If you were given more time with this dataset, where do you think you would spend more time?
+I would try to create and try manual train and validation, in order to better select it, in order to try and avoid overfitting 
+Also, I would try a lot more parameters  for the GBM models as I would expect it would get the best results
+### Create a table with the models you ran, the hyperparameters modified, and the kaggle score.
+
+
 
  
 
