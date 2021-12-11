@@ -86,6 +86,25 @@ I would try to create and try manual train and validation, in order to better se
 Also, I would try a lot more parameters  for the GBM models as I would expect it would get the best results
 ### Create a table with the models you ran, the hyperparameters modified, and the kaggle score.
 
+### If you were given more time with this dataset, where do you think you would spend more time?
+I would try to create and try manual train and validation, in order to better select it, in order to try and avoid overfitting 
+Also, I would try a lot more parameters  for the GBM models as I would expect it would get the best results
+### Create a table with the models you ran, the hyperparameters modified, and the kaggle score.
+
+
+
+### Create a line plot showing the top model score for the three (or more) training runs during the project.
+
+#### Score results of the best models 
+
+![image](https://user-images.githubusercontent.com/7562160/145683028-4299c0d2-84c5-45d4-af83-f2b3e52591ec.png)
+
+#### Kaggle results of the best models 
+
+![image](https://user-images.githubusercontent.com/7562160/145683047-c9230242-950e-4ba6-ad5b-111df632fcc5.png)
+
+
+
 
 
  
