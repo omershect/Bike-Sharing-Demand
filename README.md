@@ -91,9 +91,11 @@ I would try to create and try manual train and validation, in order to better se
 Also, I would try a lot more parameters  for the GBM models as I would expect it would get the best results
 ### Create a table with the models you ran, the hyperparameters modified, and the kaggle score.
 
+![image](https://user-images.githubusercontent.com/7562160/145683150-1104a2e6-8b72-4979-a6ae-9a03a08155e3.png)
 
 
 ### Create a line plot showing the top model score for the three (or more) training runs during the project.
+
 
 #### Score results of the best models 
 
